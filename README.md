@@ -63,4 +63,4 @@ Customize your project templates inside the CLI for reusable setups.
 
 ## License
 
-MIT © 2026 attendance1978-wq
+This project is licensed under the [MIT License](LICENSE) © 2026 [attendance1978-wq](https://github.com/attendance1978-wq)
