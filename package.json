@@ -1,0 +1,22 @@
+{
+  "name": "create-projs-cli",
+  "version": "1.0.0",
+  "description": "ProJS React built-in website generator",
+  "bin": {
+    "create-projs-cli": "index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "projs",
+    "react",
+    "framework",
+    "cli",
+    "create"
+  ],
+  "author": "thegodfatherclarinet",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "prompts": "^2.4.2"
+  }
+}
